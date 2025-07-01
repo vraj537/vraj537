@@ -1,4 +1,7 @@
 ![logo](https://github.com/vraj537/vraj537/blob/main/GITHUB_BANNER.png)
+
+![Dark version](./dark.png#gh-dark-mode-only)
+
 <h1 align="center">Hi 👋, I'm Rathod Vraj</h1>
 <h3 align="center">A Full-Stack Web developer from India</h3>
 
