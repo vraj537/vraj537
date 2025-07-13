@@ -16,11 +16,19 @@
 - 📫 How to reach me **vraj537github@gmail.com**
 
 - ⚡ Fun fact **I am curious about learning and creating new things by my own concept**
+<img src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="1200"/>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/vraj_537" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vraj_537" height="30" width="40" /></a>
-</p>
+<table style="border:none;" border="none">
+  <tr>
+    <td>
+<a href="https://instagram.com/vraj_537" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vraj_537" height="30" width="40" />
+</td>
+<td>
+<a href="https://www.linkedin.com/in/vraj537/" target="blank"><img  src="https://cdn.iconscout.com/icon/free/png-256/free-linkedin-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-1581908.png?f=webp" alt="vraj_537" height="30" width="40" />
+  </td>
+</tr>
+</table>
 <img src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="1200"/>
 
 <table>
