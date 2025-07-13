@@ -1,4 +1,4 @@
-![logo](https://github.com/vraj537/vraj537/blob/main/GITHUB_BANNER.png)
+![logo](https://github.com/vraj537/vraj537/blob/main/github_banner%20(2).png)
 
 <h1 align="center">Hey! 👋, I'm Rathod Vraj</h1>
 <h3 align="center">BCA(Hons.) FROM GUJARAT UNIVERSITY</h3>
