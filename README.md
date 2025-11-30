@@ -88,9 +88,6 @@ me.say_hi()
 ## 📊 GitHub Stats:
 <table>
 <tr>
-  <td>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vraj537&show_icons=true&locale=en" alt="vraj537" /></p></td>
-  <td>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vraj537&show_icons=true&locale=en&layout=compact" alt="vraj537" /></p></td>
 </tr>
 </table>
