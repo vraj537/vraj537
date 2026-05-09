@@ -73,21 +73,10 @@ me.say_hi()
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<h3>🏆 GitHub Trophies </h3>
-<img src="https://github.com/vraj537/vraj537/blob/main/github_trophies.png">
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-## 📊 GitHub Stats:
-<table>
-<tr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vraj537&show_icons=true&locale=en&layout=compact" alt="vraj537" /></p></td>
-</tr>
-</table>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
