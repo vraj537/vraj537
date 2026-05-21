@@ -34,7 +34,7 @@ class BcaStudent:
         print("Thanks For Visiting My Profile! Let's Collab and Build Something Amazing 🚀")
 
 me = BcaStudent()
-me.say_hi()
+me.say_hi(
 ```
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
