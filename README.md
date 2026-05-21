@@ -53,8 +53,6 @@ me.say_hi()
 |------|-------|
 | 🤖 **AI & ML** | Exploring models, training, real-world applications |
 | 🐍 **Python** | Django framework — APIs, web apps, automation |
-| 🌐 **MERN Stack** | MongoDB · Express · React · Node.js |
-| 📐 **Backend** | PHP · Laravel · REST API design |
 | 💡 **Mindset** | Absorbing new ideas, building from scratch |
 
 <br/>
@@ -79,12 +77,10 @@ me.say_hi()
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Frameworks & Libraries**
+**Frameworks**
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **Tools & Platforms**
 
@@ -99,11 +95,6 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vraj537&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050a10&title_color=22d3ee&icon_color=a78bfa&text_color=94a3b8&rank_icon=github" height="165" alt="Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vraj537&layout=compact&theme=tokyonight&hide_border=true&bg_color=050a10&title_color=22d3ee&text_color=94a3b8" height="165" alt="Top Langs"/>
-</div>
 
 <br/>
 
@@ -121,7 +112,7 @@ me.say_hi()
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
 
-## ✍️ Dev Quote of the Day
+## ✍️ Developer Quote of the Day
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
