@@ -95,15 +95,12 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
-
 <br/>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vraj537&theme=tokyonight&hide_border=true&background=050a10&stroke=a78bfa&ring=22d3ee&fire=f472b6&currStreakLabel=22d3ee" alt="GitHub Streak"/>
 </div>
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
-
+ 
 ## 🐍 Contribution Graph
 
 <div align="center">
