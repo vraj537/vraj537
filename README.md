@@ -29,7 +29,7 @@ class BcaStudent:
     def __init__(self):
         self.name        = "Vraj Rathod"
         self.role        = "Coder & Problem Solver"
-        self.university  = "Gujarat University (BCA Hons.)"
+        self.university  = "Gujarat University (BCA)"
         self.location    = "Gujarat, India 🇮🇳"
         self.languages   = ["English", "Hindi", "Gujarati"]
         self.interests   = ["Python", "Django", "MERN Stack explorer"]
