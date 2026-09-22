@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/vraj537/vraj537/main/header4.svg" alt="Vraj Rathod" width="100%"/>
 </div>
-
 <br/>
 <div align="center">
   <a href="https://git.io/typing-svg">
