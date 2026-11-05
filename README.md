@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vraj537/vraj537/main/headerv4.svg" alt="Vraj Rathod" width="100%"/>
+  <img src="https://raw.githubusercontent.com/vraj537/vraj537/main/header4.svg" alt="Vraj Rathod" width="100%"/>
 </div>
 <br/>
 <div align="center">
