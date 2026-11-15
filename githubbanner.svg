@@ -1,0 +1,170 @@
+<svg viewBox="0 0 680 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes rotateCW { from{transform:rotate(0deg)} to{transform:rotate(360deg)} }
+      @keyframes rotateACW { from{transform:rotate(0deg)} to{transform:rotate(-360deg)} }
+      @keyframes softPulse { 0%,100%{opacity:0.25; transform:scale(1)} 50%{opacity:0.9; transform:scale(1.15)} }
+      @keyframes lineGlow { 0%,100%{opacity:0.3} 50%{opacity:0.85} }
+      @keyframes sidePulse { 0%,100%{opacity:0.3} 50%{opacity:0.8} }
+
+      /* Yellow balls movement */
+      @keyframes ball1 { 
+        0%   { transform: translate(0, 0) scale(1); opacity: 0.3; }
+        25%  { transform: translate(12px, -18px) scale(1.4); opacity: 1; }
+        50%  { transform: translate(-8px, -28px) scale(0.9); opacity: 0.6; }
+        75%  { transform: translate(15px, -12px) scale(1.3); opacity: 1; }
+        100% { transform: translate(0, 0) scale(1); opacity: 0.3; }
+      }
+      @keyframes ball2 { 
+        0%   { transform: translate(0, 0) scale(1); opacity: 0.25; }
+        30%  { transform: translate(-15px, 14px) scale(1.5); opacity: 1; }
+        60%  { transform: translate(10px, 22px) scale(0.8); opacity: 0.5; }
+        100% { transform: translate(0, 0) scale(1); opacity: 0.25; }
+      }
+      @keyframes ball3 { 
+        0%   { transform: translate(0, 0) scale(0.8); opacity: 0.2; }
+        40%  { transform: translate(18px, 10px) scale(1.6); opacity: 1; }
+        70%  { transform: translate(-12px, -16px) scale(1.1); opacity: 0.7; }
+        100% { transform: translate(0, 0) scale(0.8); opacity: 0.2; }
+      }
+      @keyframes ball4 { 
+        0%   { transform: translate(0, 0) scale(1); opacity: 0.3; }
+        20%  { transform: translate(-10px, -20px) scale(1.3); opacity: 0.9; }
+        50%  { transform: translate(14px, -8px) scale(1.5); opacity: 1; }
+        80%  { transform: translate(-6px, 12px) scale(0.9); opacity: 0.5; }
+        100% { transform: translate(0, 0) scale(1); opacity: 0.3; }
+      }
+
+      /* Rings - alternating direction */
+      .ring1 { transform-origin:340px 110px; animation:rotateCW 40s linear infinite; }
+      .ring2 { transform-origin:340px 110px; animation:rotateACW 32s linear infinite; }
+      .ring3 { transform-origin:340px 110px; animation:rotateCW 24s linear infinite; }
+      .ring4 { transform-origin:340px 110px; animation:rotateACW 18s linear infinite; }
+
+      .pulse { animation:softPulse 2.6s ease-in-out infinite; }
+      .glow { animation:lineGlow 2.8s ease-in-out infinite; }
+      .side { animation:sidePulse 3.2s ease-in-out infinite; }
+
+      .b1 { animation: ball1 4.5s ease-in-out infinite; }
+      .b2 { animation: ball2 5.2s ease-in-out infinite 0.4s; }
+      .b3 { animation: ball3 3.8s ease-in-out infinite 0.8s; }
+      .b4 { animation: ball4 4.8s ease-in-out infinite 1.2s; }
+    </style>
+
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#030303"></stop>
+      <stop offset="50%" stop-color="#0f0f0f"></stop>
+      <stop offset="100%" stop-color="#030303"></stop>
+    </linearGradient>
+
+    <linearGradient id="nameGold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#fffbeb"></stop>
+      <stop offset="25%" stop-color="#fde68a"></stop>
+      <stop offset="55%" stop-color="#fbbf24"></stop>
+      <stop offset="80%" stop-color="#d97706"></stop>
+      <stop offset="100%" stop-color="#92400e"></stop>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fbbf24" stop-opacity="0.18"></stop>
+      <stop offset="100%" stop-color="#fbbf24" stop-opacity="0"></stop>
+    </radialGradient>
+
+    <clipPath id="clip">
+      <rect width="680" height="220" rx="20"></rect>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    
+    <rect width="680" height="220" fill="url(#bg)"></rect>
+
+    
+    <ellipse cx="340" cy="110" rx="260" ry="100" fill="url(#glow)"></ellipse>
+
+    
+    <g class="ring1">
+      <circle cx="340" cy="110" r="105" fill="none" stroke="#fbbf24" stroke-width="1.1" opacity="0.14"></circle>
+      
+      <circle cx="340" cy="5" r="2.8" fill="#fbbf24" opacity="0.35"></circle>
+      <circle cx="445" cy="110" r="2.8" fill="#fbbf24" opacity="0.35"></circle>
+      <circle cx="340" cy="215" r="2.8" fill="#fbbf24" opacity="0.35"></circle>
+      <circle cx="235" cy="110" r="2.8" fill="#fbbf24" opacity="0.35"></circle>
+      <circle cx="414" cy="36" r="2.4" fill="#fde68a" opacity="0.3"></circle>
+      <circle cx="414" cy="184" r="2.4" fill="#fde68a" opacity="0.3"></circle>
+      <circle cx="266" cy="36" r="2.4" fill="#fde68a" opacity="0.3"></circle>
+      <circle cx="266" cy="184" r="2.4" fill="#fde68a" opacity="0.3"></circle>
+    </g>
+
+    
+    <g class="ring2">
+      <circle cx="340" cy="110" r="88" fill="none" stroke="#fde68a" stroke-width="0.9" opacity="0.11"></circle>
+      
+      <circle cx="340" cy="22" r="2.5" fill="#fde68a" opacity="0.32"></circle>
+      <circle cx="428" cy="110" r="2.5" fill="#fde68a" opacity="0.32"></circle>
+      <circle cx="340" cy="198" r="2.5" fill="#fde68a" opacity="0.32"></circle>
+      <circle cx="252" cy="110" r="2.5" fill="#fde68a" opacity="0.32"></circle>
+      <circle cx="402" cy="48" r="2.2" fill="#fffbeb" opacity="0.28"></circle>
+      <circle cx="402" cy="172" r="2.2" fill="#fffbeb" opacity="0.28"></circle>
+      <circle cx="278" cy="48" r="2.2" fill="#fffbeb" opacity="0.28"></circle>
+      <circle cx="278" cy="172" r="2.2" fill="#fffbeb" opacity="0.28"></circle>
+    </g>
+
+    
+    <g class="ring3">
+      <circle cx="340" cy="110" r="70" fill="none" stroke="#fffbeb" stroke-width="0.8" opacity="0.09"></circle>
+      
+      <circle cx="340" cy="40" r="2.2" fill="#fffbeb" opacity="0.3"></circle>
+      <circle cx="410" cy="110" r="2.2" fill="#fffbeb" opacity="0.3"></circle>
+      <circle cx="340" cy="180" r="2.2" fill="#fffbeb" opacity="0.3"></circle>
+      <circle cx="270" cy="110" r="2.2" fill="#fffbeb" opacity="0.3"></circle>
+    </g>
+
+    
+    <g class="ring4">
+      <circle cx="340" cy="110" r="52" fill="none" stroke="#fbbf24" stroke-width="0.7" opacity="0.07"></circle>
+      
+      <circle cx="340" cy="58" r="1.9" fill="#fbbf24" opacity="0.28"></circle>
+      <circle cx="392" cy="110" r="1.9" fill="#fbbf24" opacity="0.28"></circle>
+      <circle cx="340" cy="162" r="1.9" fill="#fbbf24" opacity="0.28"></circle>
+      <circle cx="288" cy="110" r="1.9" fill="#fbbf24" opacity="0.28"></circle>
+    </g>
+
+    
+    <circle class="b1" cx="70" cy="50" r="2.2" fill="#fde68a"></circle>
+    <circle class="b2" cx="610" cy="45" r="2" fill="#fffbeb"></circle>
+    <circle class="b3" cx="95" cy="175" r="2.3" fill="#fbbf24"></circle>
+    <circle class="b4" cx="585" cy="180" r="2.1" fill="#fde68a"></circle>
+    <circle class="b1" cx="170" cy="35" r="1.8" fill="#fffbeb"></circle>
+    <circle class="b2" cx="510" cy="30" r="1.9" fill="#fbbf24"></circle>
+    <circle class="b3" cx="240" cy="195" r="1.7" fill="#fde68a"></circle>
+    <circle class="b4" cx="440" cy="200" r="2" fill="#fffbeb"></circle>
+
+    
+    <line x1="40" y1="50" x2="40" y2="170" stroke="#fbbf24" stroke-width="1.5" opacity="0.4" class="side"></line>
+    <circle cx="40" cy="50" r="3" fill="#fbbf24" opacity="0.6" class="pulse"></circle>
+    <circle cx="40" cy="170" r="3" fill="#fbbf24" opacity="0.6" class="pulse"></circle>
+
+    
+    <line x1="640" y1="50" x2="640" y2="170" stroke="#fbbf24" stroke-width="1.5" opacity="0.4" class="side"></line>
+    <circle cx="640" cy="50" r="3" fill="#fbbf24" opacity="0.6" class="pulse"></circle>
+    <circle cx="640" cy="170" r="3" fill="#fbbf24" opacity="0.6" class="pulse"></circle>
+
+    
+    <text x="340" y="95" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" font-weight="600" fill="url(#nameGold)" letter-spacing="3">
+      𝒱𝑅𝒜𝒥 𝑅𝒜𝒯𝐻𝒪𝒟
+    </text>
+
+    
+    <line x1="200" y1="115" x2="480" y2="115" stroke="#fbbf24" stroke-width="1.3" opacity="0.5" class="glow"></line>
+
+    
+    <circle cx="190" cy="115" r="2.3" fill="#fde68a" class="pulse"></circle>
+    <circle cx="490" cy="115" r="2.3" fill="#fde68a" class="pulse"></circle>
+
+    
+    <text x="340" y="155" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="14.5" font-weight="500" fill="#fbbf24" letter-spacing="2" opacity="0.9">
+      𝒫𝒴𝒯𝐻𝒪𝒩  |  𝒟𝒥𝒜𝒩𝒢𝒪  |  𝒜𝐼-𝑀𝐿 𝐸𝒳𝒫𝐿𝒪𝑅𝐸𝑅
+    </text>
+  </g>
+</svg>
