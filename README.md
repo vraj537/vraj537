@@ -96,7 +96,7 @@ Built with a team of two. **Recognised by Adoption Home Ahmedabad** with an offi
 
 Helps recruiters look past polished resumes and make decisions backed by evidence.
 
-[Live demo](https://hireproof-ai-zeta.vercel.app) · [Source code](https://github.com/vraj537/HireProof-AI)
+[Source code](https://github.com/vraj537/HireProof-AI)
 
 ![Django](https://img.shields.io/badge/Django-0A0A0A?style=flat-square&logo=django&logoColor=FBBF24)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=FBBF24)
