@@ -265,6 +265,14 @@ Challenges an idea from several viewpoints so founders can spot weak points earl
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/vraj537/vraj537/main/banner-gold.jpg" width="100%" alt="Technology collage"/>
+
+</div>
+
+---
+
+<div align="center">
+
 ### Let's build something great together
 
 Open to internships, collaborations and interesting projects.
