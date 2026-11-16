@@ -232,9 +232,9 @@ Challenges an idea from several viewpoints so founders can spot weak points earl
 ## GitHub Activity
 
 <div align="center">
-
+<!--
 <img src="https://raw.githubusercontent.com/vraj537/vraj537/main/profile-summary-card-output/gruvbox/3-stats.svg" width="48.5%" alt="GitHub Stats"/>
-<img src="https://raw.githubusercontent.com/vraj537/vraj537/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg" width="48.5%" alt="Top Languages"/>
+<img src="https://raw.githubusercontent.com/vraj537/vraj537/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg" width="48.5%" alt="Top Languages"/> -->
 
 <br/><br/>
 
