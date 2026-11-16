@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vraj537/vraj537/main/githubbanner.svg" width="100%" alt="Vraj Rathod"/>
+<img src="https://raw.githubusercontent.com/vraj537/vraj537/main/githubbanner_new.svg" width="100%" alt="Vraj Rathod"/>
 
 <br/>
 
