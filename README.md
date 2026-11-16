@@ -41,7 +41,7 @@ I graduated in BCA from Gujarat University as a rank holder, completed a one-yea
 | **Location** | Gujarat, India |
 
 ---
-
+<!--
 ## My Journey
 
 ```mermaid
@@ -58,7 +58,7 @@ timeline
          : Earned AWS, Oracle and Cisco certifications
          : Began MCA at Nirma University
 ```
-
+-->
 ---
 
 ## Experience & Education
