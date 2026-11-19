@@ -262,6 +262,11 @@ Challenges an idea from several viewpoints so founders can spot weak points earl
 </div>
 
 ---
+<div align="center">
+    [![vraj537 Chess Card](./chess-gold.svg)](https://github.com/vraj537)
+</div>
+
+---
 
 <div align="center">
 
